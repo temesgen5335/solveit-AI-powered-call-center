@@ -1,0 +1,429 @@
+{
+    "navbar": {
+      "home": "الرئيسية",
+      "services": "الخدمات",
+      "features": "الميزات",
+      "aboutUs": "من نحن",
+      "timeline": "الجدول الزمني",
+      "contact": "اتصل بنا",
+      "bookDemo": "احجز عرضًا تجريبيًا",
+      "login": "تسجيل الدخول",
+      "logout": "تسجيل الخروج"
+    },
+    "landingPage": {
+      "header": {
+        "title": "حوّل مركز الاتصالات الخاص بك إلى",
+        "titleTag": "قوة الذكاء الاصطناعي",
+        "description": "تحدث Solveit ثورة في مراكز الاتصال من خلال حل الاستفسارات في الوقت الفعلي، والتوجيه الذكي، وتحسين مكان العمل باستخدام الذكاء الاصطناعي.",
+        "bookDemoButton": "احجز عرضًا تجريبيًا"
+      },
+      "platformFeatures": {
+        "title": "ميزات المنصة",
+        "features": {
+          "realTimeAIChat": {
+            "title": "دردشة الذكاء الاصطناعي في الوقت الفعلي",
+            "description": "ردود فورية مدعومة بالذكاء الاصطناعي المتقدم"
+          },
+          "humanEscalation": {
+            "title": "تصعيد إلى الدعم البشري",
+            "description": "تحويل سلس إلى الدعم البشري عند الحاجة"
+          },
+          "voiceAndText": {
+            "title": "الصوت والنص",
+            "description": "دعم الاستفسارات الصوتية والنصية"
+          },
+          "multilingual": {
+            "title": "متعدد اللغات",
+            "description": "دعم للغات متعددة"
+          }
+        }
+      },
+      "ctaSection": {
+        "title": "هل أنت مستعد لتحويل مركز الاتصال الخاص بك؟",
+        "description": "انضم إلى مستقبل عمليات مراكز الاتصال مع حلول Solveit المدعومة بالذكاء الاصطناعي.",
+        "startFreeTrialButton": "ابدأ التجربة المجانية"
+      }
+    },
+    "keyFeatures": {
+      "title": "الميزات الرئيسية",
+      "feature1": {
+      "title": "دقة فورية",
+      "description1": "اكتشاف ونسخ اللغة الطبيعية",
+      "description2": "إنشاء حلول فورية بتقنية الاسترداد المُحسّنة"
+      },
+      "feature2": {
+      "title": "توجيه ذكي",
+      "description1": "توجيه مُدعّم بالذكاء الاصطناعي إلى المُختص المُناسب",
+      "description2": "مُحسّن لتحقيق الكفاءة والسرعة دون تدخل يدوي"
+      },
+      "feature3": {
+      "title": "بيئة عمل مُحسّنة",
+      "description1": "مراقبة وتحليل فوري",
+      "description2": "رؤى مُستندة إلى البيانات لاتخاذ قرارات أفضل"
+      }
+    },
+    "timeline": {
+      "title": "خطتنا الزمنية",
+      "april": {
+        "month": "أبريل 2025",
+        "title": "بدء المشروع",
+        "description": "مرحلة التطوير الأولية، إعداد البنية التحتية الأساسية والميزات الأساسية."
+      },
+      "may": {
+        "month": "مايو 2025",
+        "title": "إطلاق MVP واختبارات إندور",
+        "description": "إطلاق الحد الأدنى من المنتج القابل للتطبيق مع الاختبار الأولي في سوق إندور."
+      },
+      "june": {
+        "month": "يونيو 2025",
+        "title": "إصدار النسخة التجريبية واختبار العملاء الحصري",
+        "description": "إصدار النسخة التجريبية للعملاء المختارين مع ميزات متقدمة وتحسينات."
+      },
+      "july": {
+        "month": "يوليو 2025",
+        "title": "التسويق وتطوير تطبيق الهاتف المحمول",
+        "description": "إطلاق حملة تسويقية واسعة النطاق وبدء تطوير تطبيق الهاتف المحمول."
+      }
+    },
+    "platformFeatures": {
+      "title": "ميزاتنا",
+      "feature1": {
+        "title": "دردشة الذكاء الاصطناعي في الوقت الفعلي",
+        "description": "ردود فورية مدعومة بالذكاء الاصطناعي المتقدم"
+      },
+      "feature2": {
+        "title": "تصعيد إلى الدعم البشري",
+        "description": "تحويل سلس إلى الدعم البشري عند الحاجة"
+      },
+      "feature3": {
+        "title": "الصوت والنص",
+        "description": "دعم الاستفسارات الصوتية والنصية"
+      },
+      "feature4": {
+        "title": "متعدد اللغات",
+        "description": "دعم للغات متعددة"
+      }
+    },
+    "companiesServices": {
+      "title": "خدمات الشركات",
+      "industry1": {
+        "title": "التكنولوجيا والبرمجيات",
+          "services": {
+            "service1": "الدعم الفني",
+            "service2": "إعداد المنتج وتكوينه",
+            "service3": "تحديثات البرامج واستكشاف الأخطاء وإصلاحها",
+            "service4": "مساعدة في الفوترة",
+            "service5": "إدارة الحساب"
+          }
+        },
+        "industry2": {
+        "title": "التجارة الإلكترونية والتجزئة",
+          "services": {
+            "service1": "إدارة الطلبات وتتبعها",
+            "service2": "معلومات المنتج",
+            "service3": "معالجة المرتجعات والاستبدالات",
+            "service4": "حلول الدفع",
+            "service5": "دعم العملاء"
+          }
+        },
+        "industry3": {
+        "title": "الرعاية الصحية",
+          "services": {
+            "service1": "جدولة المواعيد",
+            "service2": "إعادة صرف الوصفات الطبية",
+            "service3": "التحقق من مطالبات التأمين",
+            "service4": "استفسارات الفواتير",
+            "service5": "تثقيف المرضى"
+          }
+        },
+        "industry4": {
+        "title": "التمويل والخدمات المصرفية",
+          "services": {
+            "service1": "إدارة الحسابات",
+            "service2": "معالجة الدفع",
+            "service3": "كشف الاحتيال والإبلاغ عنه",
+            "service4": "خدمات القروض",
+            "service5": "الاستشارات الاستثمارية"
+          }
+        },
+        "industry5": {
+        "title": "الاتصالات",
+          "services": {
+            "service1": "دعم الشبكة",
+            "service2": "تفعيل الخدمات",
+            "service3": "استكشاف الأخطاء الفنية وإصلاحها",
+            "service4": "دعم الفواتير",
+            "service5": "معلومات الخطة"
+          }
+        },
+
+        "industry6": {
+        "title": "السفر والضيافة",
+          "services": {
+            "service1": "إدارة الحجوزات",
+            "service2": "معلومات السفر",
+            "service3": "الإلغاء واسترداد المبالغ",
+            "service4": "برامج الولاء",
+            "service5": "دعم العملاء"
+          }
+        },
+        "industry7": {
+        "title": "التعليم",
+          "services": {
+            "service1": "مساعدة التسجيل",
+            "service2": "معلومات الدورة",
+            "service3": "الدعم الفني",
+            "service4": "الفوترة والدفع",
+            "service5": "خدمات الطلاب"
+          }
+      }
+    },
+    "signinPage": {
+      "title": "تسجيل الدخول",
+      "email": {
+        "label": "البريد الإلكتروني",
+        "placeholder": "أدخل بريدك الإلكتروني"
+      },
+      "password": {
+        "label": "كلمة المرور",
+        "placeholder": "أدخل كلمة المرور"
+      },
+      "loginButton": "تسجيل الدخول",
+      "forgotPassword": "نسيت كلمة المرور؟",
+      "noAccount": {
+        "text": " ليس لديك حساب؟",
+        "registerLink": " سجل الآن"
+     }
+    },
+    "registerPage": {
+      "userType": {
+        "company": "التسجيل كشركة",
+        "user": "التسجيل كمستخدم"
+      },
+      "title": "إنشاء حساب",
+      "name": {
+        "label": "الاساسم",
+        "userNamePlaceholder": "أدخل اسمك",
+        "companyNamePlaceholder": "أدخل اسم الشركة"
+      }, 
+      "email": {
+        "label": "بريد إلكتروني",
+        "userEmailPlacholder": "أدخل بريدك الإلكتروني",
+        "companyEmailPlaceholder": "أدخل بريدك الإلكتروني للشركة"
+      },
+      "phone": {
+        "label": "رقم الهاتف",
+        "userPhoneNumber": "أدخل رقم هاتفك",
+        "companyPhoneNumber": "رقم هاتف الشركة"
+      },
+      "domain": "اسم النطاق",
+      "domainPlaceholder": "أدخل اسم النطاق",
+      "password": {
+        "label": "كلمة المرور",
+        "placeholder": "أدخل كلمة المرور"
+      },
+      "confirmPassword": {
+        "label": "تأكيد كلمة المرور",
+        "placeholder": "أعد إدخال كلمة المرور"
+      },
+      "registerButton": "سجل الآن",
+      "alreadyHaveAccount": " هل لديك حساب بالفعل؟" ,
+      "loginLink": " تسجيل الدخول"
+    },
+    "footer": {
+      "company": {
+        "company": "شركة",
+        "aboutUs": "من نحن",
+        "careers": "الوظائف",
+        "press": "الصحافة",
+        "blog": "المدونة",
+        "motto":"تمكين الأعمال من خلال حلول الذكاء الاصطناعي المتطورة. جعل المشاكل المعقدة بسيطة."
+      },
+      "products": {
+        "title": "منتجات",
+        "feature": "الميزات",
+        "pricing": "التسعير",
+        "integrations": "التكاملات",
+        "api": "واجهة برمجة التطبيقات"
+      },
+      "resources": {
+        "title": "موارد",
+        "documentation": "التوثيق",
+        "tutorials": "الدروس التعليمية",
+        "caseStudies": "دراسات الحالة",
+        "community": "المجتمع"
+      },
+      "contact": {
+        "title": "اتصل بنا",
+        "email": "info@solveit.ai",
+        "phone": "+201503885386",
+        "address": "مصر, القاهرة"
+      },
+      "features": {
+        "advancedAIModels": "نماذج الذكاء الاصطناعي المتقدمة",
+        "developerTools": "أدوات المطورين",
+        "learningResources": "موارد التعلم",
+        "communitySupport": "دعم المجتمع",
+        "chatSupport": "دعم الدردشة على مدار الساعة",
+        "enterpriseSecurity": "أمان المؤسسات"
+      },
+      "newsletter": {
+        "title": "ابقَ على اطلاع",
+        "description": "اشترك في نشرتنا الإخبارية للحصول على آخر التحديثات والرؤى.",
+        "placeholder": "أدخل بريدك الإلكتروني",
+        "subscribeButton": "اشترك"
+      },
+      
+      "bottomFooter": {
+        "privacyPolicy": "سياسة الخصوصية",
+        "termsOfService": "شروط الخدمة",
+        "security": "الأمان",
+        "cookiePolicy": "سياسة الكوكيز",
+        "copyright": "جميع الحقوق محفوظة."
+      }
+    },
+    "contactPage": {
+      "hero": {
+        "title": "اتصل بنا",
+        "description": "نحن هنا لمساعدتك! تواصل مع فريقنا لأي أسئلة أو استفسارات."
+      },
+      "info": {
+        "email": {
+          "title": "البريد الإلكتروني",
+          "description": "تواصل مع فريقنا",
+          "details": "contact@solveit.ai"
+        },
+        "phone": {
+          "title": "الهاتف",
+          "description": "تحدث مع فريق المبيعات لدينا",
+          "details": "+1 (555) 123-4567"
+        },
+        "office": {
+          "title": "المكتب",
+          "description": "قم بزيارة مقرنا الرئيسي",
+          "details": "123 Innovation Drive, Tech City, TC 12345"
+        },
+        "hours": {
+          "title": "ساعات العمل",
+          "description": "ساعات عملنا",
+          "details": "الإثنين - الجمعة: 9:00 صباحًا - 6:00 مساءً بتوقيت شرق الولايات المتحدة"
+        }
+      },
+      "form": {
+        "title": "أرسل لنا رسالة",
+        "fields": {
+          "name": "الاسم الكامل",
+          "email": "البريد الإلكتروني",
+          "subject": "الموضوع",
+          "message": "الرسالة"
+        },
+        "placeholders": {
+          "name": "محمد أحمد",
+          "email": "mohamed@company.com",
+          "subject": "كيف يمكننا مساعدتك؟",
+          "message": "أخبرنا كيف يمكننا مساعدتك..."
+        },
+        "submitButton": "أرسل الرسالة",
+        "successMessage": "شكرًا لتواصلك معنا. سنعود إليك قريبًا.",
+        "errorMessage": "عذرًا! حدث خطأ ما. يرجى المحاولة مرة أخرى لاحقًا."
+      }
+    },
+    "bookDemoPage": {
+      "hero": {
+        "title": "اطلب عرضًا تجريبيًا",
+        "description": "اكتشف كيف يمكن لـ Solveit تحويل عمليات خدمة العملاء لديك"
+      },
+      "form": {
+        "fields": {
+          "name": "الاسم الكامل",
+          "email": "البريد الإلكتروني",
+          "phone": "الهاتف",
+          "company": "اسم الشركة",
+          "industry": "الصناعة",
+          "companySize": "حجم الشركة",
+          "message": "الرسالة"
+
+        },
+        "placeholders": {
+          "name": "محمد أحمد",
+          "email": "mohamed@company.com",
+          "phone": "+1 (555) 000-0000",
+          "company": "شركة أكمي",
+          "industry": "اختر صناعتك",
+          "companySize": "اختر حجم الشركة",
+          "message": "أخبرنا عن احتياجاتك وكيف يمكننا مساعدتك..."
+        },
+        "submitButton": "اطلب العرض التجريبي",
+        "successMessage": "شكرًا لك! لقد تلقينا طلب العرض التجريبي الخاص بك. سيتواصل فريقنا معك قريبًا.",
+        "errorMessage": "عذرًا! حدث خطأ ما. يرجى المحاولة مرة أخرى لاحقًا."
+      }
+    },
+    "userDashboard": {
+      "requestChannelPanel": {
+        "serviceCategory": "فئة الخدمة",
+        "voiceInputMessage": "إدخال صوتي / رسالة",
+        "placeholder": "اكتب رسالتك أو قم بتسجيل الصوت...",
+        "recordButton": {
+          "start": "تسجيل",
+          "stop": "إيقاف"
+        },
+        "submitButton": "إرسال",
+        "aiResponse": "استجابة الذكاء الاصطناعي",
+        "responseStatus": {
+          "processing": "قيد المعالجة",
+          "completed": "مكتمل",
+          "escalated": "تم التصعيد",
+          "idle": "خامل"
+        },
+        "responsePlaceholder": "سيظهر الرد هنا..."
+      },
+      "requestLogTable": {
+        "filters": {
+          "searchPlaceholder": "ابحث عن الطلب أو الرد...",
+          "statusFilter": "تصفية حسب الحالة",
+          "dateFilter": {
+            "startDate": "تاريخ البدء",
+            "endDate": "تاريخ الانتهاء"
+          }
+        },
+        "tableHeaders": {
+          "timestamp": "الطابع الزمني",
+          "request": "الطلب",
+          "type": "النوع",
+          "response": "الرد",
+          "status": "الحالة",
+          "serviceCategory": "فئة الخدمة",
+          "company": "الشركة"
+        },
+        "noDataMessage": "لم يتم العثور على تفاعلات."
+      }
+    },
+    "companyDashboard": {
+      "servicesTable": {
+        "filters": {
+          "searchPlaceholder": "ابحث عن الطلب أو الرد...",
+          "statusFilter": "تصفية حسب الحالة",
+          "dateFilter": {
+            "startDate": "تاريخ البدء",
+            "endDate": "تاريخ الانتهاء"
+          }
+        },
+        "tableHeaders": {
+          "timestamp": "الطابع الزمني",
+          "request": "الطلب",
+          "type": "النوع",
+          "response": "الرد",
+          "status": "الحالة",
+          "serviceCategory": "فئة الخدمة",
+          "company": "الشركة"
+        },
+        "noDataMessage": "لم يتم العثور على تفاعلات."
+      },
+      "specialistResponseTable": {
+        "responsePlaceholder": "اكتب ردك...",
+        "sendButton": "إرسال",
+        "noPendingRequests": "لم يتم العثور على طلبات معلقة."
+      }
+    }
+
+  }

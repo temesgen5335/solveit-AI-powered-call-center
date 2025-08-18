@@ -1,0 +1,426 @@
+{
+    "navbar": {
+      "home": "Home",
+      "services": "Services",
+      "features": "Features",
+      "aboutUs": "About Us",
+      "timeline": "Timeline",
+      "contact": "Contact",
+      "bookDemo": "Book Demo",
+      "login": "Login",
+      "logout": "Logout"
+    },
+    "landingPage": {
+      "header": {
+        "title": "Transform Your Call Center with",
+        "titleTag": "AI power",
+        "description": "Solveit revolutionizes call centers through real-time query resolution, intelligent routing, and AI-based workplace optimization.",
+        "bookDemoButton": "Book Demo"
+      },
+      "platformFeatures": {
+        "title": "Platform Features",
+        "features": {
+          "realTimeAIChat": {
+            "title": "Real-time AI Chat",
+            "description": "Instant responses powered by advanced AI"
+          },
+          "humanEscalation": {
+            "title": "Human Escalation",
+            "description": "Seamless handoff to human support when needed"
+          },
+          "voiceAndText": {
+            "title": "Voice & Text",
+            "description": "Support for both voice and text queries"
+          },
+          "multilingual": {
+            "title": "Multilingual",
+            "description": "Support for multiple languages"
+          }
+        }
+      },
+      "ctaSection": {
+        "title": "Ready to Transform Your Call Center?",
+        "description": "Join the future of call center operations with Solveit's AI-powered solutions.",
+        "startFreeTrialButton": "Start Free Trial"
+      }
+    },
+    "keyFeatures": {
+      "title": "Key Features",
+      "feature1":{
+        "title": "Real-time Resolution",
+        "description1": "Natural language detection and transcription",
+        "description2": "Instant solution generation via Reterval augmented generation"
+      },
+      "feature2": {
+        "title": "Intelligent Routing",
+        "description1": "AI-driven routing to the right specialist",
+        "description2": "Optimized for efficiency and speed with no manual intervantion needed"
+      },
+      "feature3": {
+        "title": "Workplace Optimization",
+        "description1": "Real-time monitoring and analysis",
+        "description2": "Data-driven insights for better decision-making"
+      }
+    },
+    "timeline": {
+      "title": "Our Development Journey",
+      "april": {
+        "month": "April, 2025",
+        "title": "Project Initiation",
+        "description": "Initial development phase, setting up core infrastructure and basic features."
+      },
+      "may": {
+        "month": "May, 2025",
+        "title": "MVP Launch & Indore Tests",
+        "description": "Launch of Minimum Viable Product with initial testing in Indore market."
+      },
+      "june": {
+        "month": "June, 2025",
+        "title": "Beta Version & Exclusive Client Testing",
+        "description": "Release of beta version for selected clients with advanced features and optimizations."
+      },
+      "july": {
+        "month": "July, 2025",
+        "title": "Marketing & Mobile App Development",
+        "description": "Full-scale marketing campaign launch and mobile application development kickoff."
+      }
+    },
+    "platformFeatures": {
+      "title": "Platform Features",
+      "feature1": {
+        "title": "Real-time AI Chat",
+        "description": "Instant responses powered by advanced AI"
+      },
+      "feature2": {
+        "title": "Human Escalation",
+        "description": "Seamless handoff to human support when needed"
+      },
+      "feature3": {
+        "title": "Voice & Text",
+        "description": "Support for both voice and text queries"
+      },
+      "feature4": {
+        "title": "Multilingual Support",
+        "description": "Support for multiple languages"
+      }
+    },
+    "companiesServices": {
+      "title": "Companies and Services",
+      "industry1": {
+        "title": "Technology and Software",
+        "services": {
+          "service1": "Technical Support",
+          "service2": "Product setup and configuration",
+          "service3": "Software Updates and Troubleshooting",
+          "service4": "Billing Assistance",
+          "service5": "Account Management"
+        }
+      },
+      "industry2": {
+        "title": "E-commerce and Retail",
+        "services": {
+          "service1": "Order Management and Tracking",
+          "service2": "Product Information",
+          "service3": "Returns and Exchanges processing",
+          "service4": "Payment Solutions",
+          "service5": "Customer Support"
+        }
+      },
+      "industry3": {
+        "title": "Healthcare",
+        "services": {
+          "service1": "Appointment Scheduling",
+          "service2": "Prescription Refills",
+          "service3": "Insurance claims Verification",
+          "service4": "Billing Inquiries",
+          "service5": "Patient Education"
+        }
+      },
+      "industry4": {
+        "title": "Finance and Banking",
+        "services": {
+          "service1": "Account Management",
+          "service2": "Payment Proccessing",
+          "service3": "Fraud Detection and Reporting",
+          "service4": "Loan Services",
+          "service5": "Investment Advice"
+        }
+      },
+      "industry5": {
+        "title": "Telecommunications",
+        "services": {
+          "service1": "Network Support",
+          "service2": "Services Activation",
+          "service3": "Technical Troubleshooting",
+          "service4": "Billing Support",
+          "service5": "Plan Information"
+        }
+      },
+      "industry6": {
+        "title": "Travel and Hospitality",
+        "services": {
+          "service1": "Booking Management",
+          "service2": "Travel Information",
+          "service3": "Cancellation and Refunds",
+          "service4": "Loyalty Programs",
+          "service5": "Customer Support"
+        }
+      },
+      "industry7": {
+        "title": "Education",
+        "services": {
+          "service1": "Enrollment Assistance",
+          "service2": "Course Information",
+          "service3": "Technical Support",
+          "service4": "Billing and Payments",
+          "service5": "Student Services"
+        }
+      }
+    },
+    "signinPage": {
+      "title": "Sign In",
+      "email": {
+        "label": "Email",
+        "placeholder": "Enter your email"
+      },
+      "password": {
+        "label": "Password",
+        "placeholder": "Enter your password"
+      },
+      "loginButton": "Login",
+      "forgotPassword": "Forgot Password?",
+      "noAccount": {
+        "text": "Don't have an account? ",
+        "registerLink": " Register"
+      }
+    },
+    "registerPage": {
+      "userType": {
+        "company": "Register as a Company",
+        "user" : "Register as a User"
+      },
+      "title": "Create Your Account",
+      "name": {
+        "label": "Name",
+        "userNamePlaceholder": "Enter your Full name",
+        "companyNamePlaceholder": "Enter your company name"
+      }, 
+      "email": {
+        "label": "Email",
+        "userEmailPlacholder": "Enter your email",
+        "companyEmailPlaceholder": "Enter your company email"
+      },
+      "phone":{
+        "companyPhoneNumber": "businesses phone number",
+        "userPhoneNumber": "Enter your whatsApp number"
+      },
+      "domain": "Domain",
+      "domainPlaceholder": "Enter your domain",
+      "password": {
+        "label": "Password",
+        "placeholder": "Create a password"
+      },
+      "confirmPassword": {
+        "label": "Confirm Password",
+        "placeholder": "Re-enter your password"
+      },
+      "registerButton": "Register",
+      "alreadyHaveAccount": "Already have an account? ",
+      "loginLink": " Login"
+    },
+    "footer": {
+      "company": {
+        "company": "Company",
+        "aboutUs": "About Us",
+        "careers": "Careers",
+        "press": "Press",
+        "blog": "Blog",
+        "motto": "Empowering businesses with cutting-edge AI solutions. Making complex problems simple."
+
+      },
+      "products": {
+        "title": "Products",
+        "feature": "Features",
+        "pricing": "Pricing",
+        "integrations": "Integrations",
+        "api": "API"
+      },
+      "resources": {
+        "title": "Resources",
+        "documentation": "Documentation",
+        "tutorials": "Tutorials",
+        "caseStudies": "Case Studies",
+        "community": "Community"
+      },
+      "contact": {
+        "title": "Contact",
+        "email": "info@solveit.ai",
+        "phone": "+201503885386",
+        "address": "Egypt, Cairo"
+      },
+      "features": {
+        "advancedAIModels": "Advanced AI Models",
+        "developerTools": "Developer Tools",
+        "learningResources": "Learning Resources",
+        "communitySupport": "Community Support",
+        "chatSupport": "24/7 Chat Support",
+        "enterpriseSecurity": "Enterprise Security"
+      },
+      "newsletter": {
+        "title": "Stay Updated",
+        "description": "Subscribe to our newsletter for the latest updates and insights.",
+        "placeholder": "Enter your email",
+        "subscribeButton": "Subscribe"
+      },
+      "bottomFooter": {
+        "privacyPolicy": "Privacy Policy",
+        "termsOfService": "Terms of Service",
+        "security": "Security",
+        "cookiePolicy": "Cookie Policy",
+        "copyright": "All rights reserved."
+      }
+    },
+    "contactPage": {
+      "hero": {
+        "title": "Contact Us",
+        "description": "We're here to help! Get in touch with our team for any questions or inquiries."
+      },
+      "info": {
+        "email": {
+          "title": "Email",
+          "description": "Get in touch with our team",
+          "details": "contact@solveit.ai"
+        },
+        "phone": {
+          "title": "Phone",
+          "description": "Speak with our sales team",
+          "details": "+1 (555) 123-4567"
+        },
+        "office": {
+          "title": "Office",
+          "description": "Visit our headquarters",
+          "details": "123 Innovation Drive, Tech City, TC 12345"
+        },
+        "hours": {
+          "title": "Hours",
+          "description": "Our working hours",
+          "details": "Monday - Friday: 9:00 AM - 6:00 PM EST"
+        }
+      },
+      "form": {
+        "title": "Send Us a Message",
+        "fields": {
+          "name": "Full Name",
+          "email": "Email",
+          "subject": "Subject",
+          "message": "Message"
+        },
+        "placeholders": {
+          "name": "John Doe",
+          "email": "john@company.com",
+          "subject": "How can we help?",
+          "message": "Tell us how we can help..."
+        },
+        "submitButton": "Send Message",
+        "successMessage": "Thank you for reaching out. We'll get back to you soon.",
+        "errorMessage": "Oops! Something went wrong. Please try again later."
+      }
+    },
+    "bookDemoPage": {
+      "hero": {
+        "title": "Request a Demo",
+        "description": "See how Solveit can transform your customer service operations"
+      },
+      "form": {
+        "fields": {
+          "name": "Full Name",
+          "email": "Email",
+          "phone": "Phone",
+          "company": "Company Name",
+          "industry": "Industry",
+          "companySize": "Company Size",
+          "message": "Message"
+        },
+        "placeholders": {
+          "name": "John Doe",
+          "email": "john@company.com",
+          "phone": "+1 (555) 000-0000",
+          "company": "Acme Inc.",
+          "industry": "Select your industry",
+          "companySize": "Select company size",
+          "message": "Tell us about your needs and how we can help..."
+        },
+        "submitButton": "Request Demo",
+        "successMessage": "Thank you! We've received your demo request. Our team will contact you shortly.",
+        "errorMessage": "Oops! Something went wrong. Please try again later."
+      }
+    },
+    "userDashboard": {
+      "requestChannelPanel": {
+        "serviceCategory": "Service Category",
+        "voiceInputMessage": "Voice Input / Message",
+        "placeholder": "Type your message or record voice...",
+        "recordButton": {
+          "start": "Record",
+          "stop": "Stop"
+        },
+        "submitButton": "Submit",
+        "aiResponse": "AI Response",
+        "responseStatus": {
+          "processing": "Processing",
+          "completed": "Completed",
+          "escalated": "Escalated",
+          "idle": "Idle"
+        },
+        "responsePlaceholder": "Response will appear here..."
+      },
+      "requestLogTable": {
+        "filters": {
+          "searchPlaceholder": "Search request or response...",
+          "statusFilter": "Filter by status",
+          "dateFilter": {
+            "startDate": "Start Date",
+            "endDate": "End Date"
+          }
+        },
+        "tableHeaders": {
+          "timestamp": "Timestamp",
+          "request": "Request",
+          "type": "Type",
+          "response": "Response",
+          "status": "Status",
+          "serviceCategory": "Service Category",
+          "company": "Company"
+        },
+        "noDataMessage": "No interactions found."
+      }
+    },
+    "companyDashboard": {
+      "servicesTable": {
+        "filters": {
+          "searchPlaceholder": "Search request or response...",
+          "statusFilter": "Filter by status",
+          "dateFilter": {
+            "startDate": "Start Date",
+            "endDate": "End Date"
+          }
+        },
+        "tableHeaders": {
+          "timestamp": "Timestamp",
+          "request": "Request",
+          "type": "Type",
+          "response": "Response",
+          "status": "Status",
+          "serviceCategory": "Service Category",
+          "company": "Company"
+        },
+        "noDataMessage": "No interactions found."
+      },
+      "specialistResponseTable": {
+        "responsePlaceholder": "Write your response...",
+        "sendButton": "Send",
+        "noPendingRequests": "No pending requests found."
+      }
+    }
+  }
+

@@ -1,0 +1,78 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Default background theme */
+.default_bg_theme {
+/* background: linear-gradient(to bottom right, #e0f2fe, #c7d2fe, #a5b4fc); */
+background-color: #c7d2fe;
+  color: white;
+}
+/* Default background theme for light and dark modes */
+.default_bg_theme_dark_light {
+  background-color: #ffffff;
+  color: #4a4a4a; /* Default text color for light mode */
+}
+.navbar_bg_theme {
+background: linear-gradient(to right, #c7d2fe, #e0f2fe, #c7d2fe);
+  /* background-color: #e0f2fe; */
+  color: white;
+}
+.tiles_theme {
+  background: linear-gradient(to bottom right, #a5b4fc, #c7d2fe, #e0f2fe);
+  /* background-color: #e0f2fe; */
+
+}
+.dark .tiles_theme {
+  background-color: gray-100;
+  
+
+}
+
+.title {
+  color: #0164BA;
+  font-weight: bold;
+}
+.table_them {
+  background: white;
+  color: black;
+}
+
+.dark .title {
+  color: white;
+  font-weight: bold;
+
+}
+.title_theme {
+  /* background: linear-gradient(to bottom right, #32FF00, #0043FF); */
+  color: white;
+  padding: 1rem;
+  font-weight: bold;
+  font-size: 2rem;
+  border-radius: 0.5rem;
+}
